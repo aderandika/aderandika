@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.kursusprivate.com](https://www.kursusprivate.com)
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, Website Development**
+- 💬 Ask me about **JavaScript, Node.js, Express.js, Laravel, PHP, MySQL, MongoDB, Website Development**
 
 - 📫 How to reach me **adepersaudaraan@gmail.com**
 
@@ -36,6 +36,18 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
   </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="Laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
