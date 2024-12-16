@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.kursusprivate.com](https://www.kursusprivate.com)
 
-- 💬 Ask me about **JavaScript, Laravel, PHP, MySQL, Wordpress, Website Development, SEO, Digitak Marketting,**
+- 💬 Ask me about **JavaScript, Laravel, PHP, MySQL, Wordpress, Website Development, SEO, Digitak Marketting**
 
 - 📫 How to reach me **adepersaudaraan@gmail.com**
 
@@ -45,9 +45,6 @@ I am funny**
   </a> 
   <a href="https://wordpress.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="40" height="40"/>
-</a>
-  <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-seo-digital-marketing-flat-flat-juicy-fish.png" alt="SEO" width="40" height="40"/>
 </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
