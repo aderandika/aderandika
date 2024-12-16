@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.kursusprivate.com](https://www.kursusprivate.com)
 
-- 💬 Ask me about **JavaScript, Laravel, PHP, MySQL, Wordpress, Website Development, SEO, Digitak Marketting**
+- 💬 Ask me about **JavaScript, Laravel, PHP, MySQL, Wordpress, Website Development, SEO, Digital Marketting**
 
 - 📫 How to reach me **adepersaudaraan@gmail.com**
 
