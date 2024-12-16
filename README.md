@@ -12,11 +12,12 @@
 
 - 📝 I regularly write articles on [https://www.kursusprivate.com](https://www.kursusprivate.com)
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, Laravel, PHP, MySQL, MongoDB, Website Development**
+- 💬 Ask me about **JavaScript, Laravel, PHP, MySQL, Wordpress, Website Development, SEO, Digitak Marketting,**
 
 - 📫 How to reach me **adepersaudaraan@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **
+I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,12 +31,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="Laravel" width="40" height="40"/> 
   </a>
@@ -45,12 +40,15 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
   </a> 
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="40" height="40"/>
+</a>
+  <a href="https://en.wikipedia.org/wiki/Search_engine_optimization" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-seo-digital-marketing-flat-flat-juicy-fish.png" alt="SEO" width="40" height="40"/>
+</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   </a> 
